@@ -21,4 +21,4 @@ The project is primarily a port of MAX30102_by_RF (https://github.com/aromring/M
 A big head-scratcher was inconsistent readings by the sensor and upon investigation, i came across this great thread: 
 https://github.com/aromring/MAX30102_by_RF/issues/13#issue-601473302
 
-MAX30102 replice breakout boards may have swapped IR and RED LEDs (mine has this issue). The work around is a single line fix but finding it may take a whole lot of time if one isn't aware of this. So keep and eye out.  
+MAX30102 replica breakout boards may have swapped IR and RED LEDs (mine has this issue). The work around is a single line fix but finding it may take a whole lot of time if one isn't aware of this. So keep and eye out.  
